@@ -3,7 +3,6 @@
 
 > The Software is still under development from our squares programmers!
 > You can join us to be a Square too!
-> The DEVELOPMENT PROCESS IS STOPPED UNTIL 13.MAI
 > 
 
 <p align="center">
@@ -13,7 +12,8 @@
 </p>
 
 <p align="center">
-    Squaredb is a key-value store that enables integration using Rust! Save your data on disk or in memory! 
+    Squaredb is a key-value store that enables integration using Rust! <br /> 
+    Save your data on disk or in memory! 
 </p>
 
 <h3 align="center">Develop easier. &nbsp; Build faster. &nbsp; Like Squares</h3>
