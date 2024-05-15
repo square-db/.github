@@ -1,10 +1,6 @@
 
 <br>
 
-> The Software is still under development from our squares programmers!
-> You can join us to be a Square too!
-> 
-
 <p align="center">
     <a href="https://squaredb.vercel.app" target="_blank">
         <img width="300" src="https://raw.githubusercontent.com/square-db/square-db/main/img/logo.png" alt="SquareDb Logo">
