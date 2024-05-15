@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    A collaborative, security-focused, scalable, multi-data-type, and extensible key-value store designed for the future.
+    A collaborative, security-focused, scalable, multi-data-type, <br /> and extensible key-value store designed for the future.
 </p>
 
 <h3 align="center">Develop easier. &nbsp; Build faster. &nbsp; Like Squares</h3>
