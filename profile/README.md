@@ -12,8 +12,7 @@
 </p>
 
 <p align="center">
-    Squaredb is a key-value store that enables integration using Rust! <br /> 
-    Save your data on disk or in memory! 
+    A collaborative, security-focused, scalable, multi-data-type, and extensible key-value store designed for the future.
 </p>
 
 <h3 align="center">Develop easier. &nbsp; Build faster. &nbsp; Like Squares</h3>
